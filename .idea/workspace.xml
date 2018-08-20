@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GameClient:jar" />
+      <artifact name="GameServer:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04014e6e-ea2e-440b-a48f-0961a7915929" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GluttonousSnake$Main.ic" NAME="Main Coverage Results" MODIFIED="1532855422819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameCore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/GameCore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+              <folding>
+                <element signature="method#getBestScores#0;class#GameCore#0" />
+                <element signature="docComment;field#foodFreshCnt#0;class#GameCore#0" />
+                <element signature="method#start#0;class#GameCore#0" />
+                <element signature="method#actOnePeriod#0;class#GameCore#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Snake.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/Snake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5588">
+              <caret line="264" column="58" selection-start-line="264" selection-start-column="58" selection-end-line="264" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameKeyBoardURDL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardURDL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameKeyBoardNBsmall.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardNBsmall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameKeyBoard.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameKeyBoardWDSA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardWDSA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameCoreConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/GameCoreConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+              <folding>
+                <element signature="method#toDir#0;class#GameCoreConstants#0" />
+                <element signature="docComment;field#FOODNUM#0;class#GameCoreConstants#0" />
+                <element signature="method#getRanInt#0;class#GameCoreConstants#0" />
+                <element signature="docComment;field#VALVE_WAIT#0;class#GameCoreConstants#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameMusicButton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gameui/component/GameMusicButton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="33" column="66" lean-forward="true" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameui/client/GameClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3696">
+              <caret line="204" selection-start-line="204" selection-end-line="204" />
+              <folding>
+                <element signature="e#8514#8856#0" expanded="true" />
+                <element signature="e#8855#8856#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameUIConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gameui/GameUIConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;field#SPEED_TIME#0;class#GameUIConstants#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getnexthole</find>
+      <find>dispair</find>
+      <find>setTaken</find>
+      <find>new SnakeNode</find>
+      <find>startpanel</find>
+      <find>tod</find>
+      <find>snakeCode</find>
+      <find>image</find>
+      <find>imageLives</find>
+      <find>new Dimension(40</find>
+      <find>return</find>
+      <find>setpreferredsize</find>
+      <find>setPreferredSize</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>snakePlayer</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/gameui/GameChatPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameServer.java" />
+        <option value="$PROJECT_DIR$/src/core/Constants.java" />
+        <option value="$PROJECT_DIR$/src/core/Hole.java" />
+        <option value="$PROJECT_DIR$/src/core/SnakeNode.java" />
+        <option value="$PROJECT_DIR$/src/core/Wall.java" />
+        <option value="$PROJECT_DIR$/src/core/Food.java" />
+        <option value="$PROJECT_DIR$/src/core/Obj.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameUIRes.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameClient.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameEndPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameFuncPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameMusicButton.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameOpenMusicButton.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameShowPanel.java" />
+        <option value="$PROJECT_DIR$/src/core/obj/Blank.java" />
+        <option value="$PROJECT_DIR$/src/core/obj/Hole.java" />
+        <option value="$PROJECT_DIR$/src/core/obj/Food.java" />
+        <option value="$PROJECT_DIR$/src/core/obj/SnakeNode.java" />
+        <option value="$PROJECT_DIR$/src/core/exception/NoMoreHoleException.java" />
+        <option value="$PROJECT_DIR$/src/core/exception/NoMoreSpaceException.java" />
+        <option value="$PROJECT_DIR$/src/core/exception/WrongPlaceException.java" />
+        <option value="$PROJECT_DIR$/src/gameui/panels/GameShowPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/panels/GameHelpPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/panels/GameUIPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/panels/GameEndPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/panels/GameFuncPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameSocketIO.java" />
+        <option value="$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoard.java" />
+        <option value="$PROJECT_DIR$/src/gameui/component/GameComposePanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/component/GameOpenMusicButton.java" />
+        <option value="$PROJECT_DIR$/src/gameui/component/GameButton.java" />
+        <option value="$PROJECT_DIR$/src/gameui/component/GameMusicButton.java" />
+        <option value="$PROJECT_DIR$/src/core/event/GameEvent.java" />
+        <option value="$PROJECT_DIR$/src/gameui/component/GameTextField.java" />
+        <option value="$PROJECT_DIR$/src/gameui/client/GameUIPanel.java" />
+        <option value="$PROJECT_DIR$/src/core/GameCore.java" />
+        <option value="$PROJECT_DIR$/src/gameui/client/GameEndPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/event/GameOverEvent.java" />
+        <option value="$PROJECT_DIR$/src/gameui/server/GameServer.java" />
+        <option value="$PROJECT_DIR$/ranking" />
+        <option value="$PROJECT_DIR$/src/gameui/client/GameClient.java" />
+        <option value="$PROJECT_DIR$/src/gameui/client/GameHelpPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/client/GameShowPanel.java" />
+        <option value="$PROJECT_DIR$/src/gameui/GameUIConstants.java" />
+        <option value="$PROJECT_DIR$/src/core/BattleGround.java" />
+        <option value="$PROJECT_DIR$/src/core/Snake.java" />
+        <option value="$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardNBsmall.java" />
+        <option value="$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardURDL.java" />
+        <option value="$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardWDSA.java" />
+        <option value="$PROJECT_DIR$/src/core/GameCoreConstants.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="410" />
+    <option name="y" value="425" />
+    <option name="width" value="980" />
+    <option name="height" value="1160" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="obj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gameui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gameui" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gameui" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gameui" type="462c0819:PsiDirectoryNode" />
+              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GluttonousSnake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GluttonousSnake" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gameui" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="gameui.GameUIConstants" />
+      <recent name="core.GameCoreConstants" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GameClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gameui.client.GameClient" />
+      <module name="GluttonousSnake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gameui.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GameFuncPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gameui.client.GameFuncPanel" />
+      <module name="GluttonousSnake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gameui.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GameServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gameui.server.GameServer" />
+      <module name="GluttonousSnake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gameui.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GluttonousSnake" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GameServer" />
+      <item itemvalue="Application.GameClient" />
+      <item itemvalue="Application.GameFuncPanel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GameClient" />
+        <item itemvalue="Application.GameFuncPanel" />
+        <item itemvalue="Application.GameServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04014e6e-ea2e-440b-a48f-0961a7915929" name="Default" comment="" />
+      <created>1531999522848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531999522848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23561645" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16015625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27932286" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="PlantUML" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="6.510417E-4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.29020557" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32889965" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/gameui/event/GameSpeedEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/event/GameStartGameEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/event/GameWindowEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/event/GameChatEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/event/GameMoveEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/event/GameEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/GameUIRes.java" />
+    <entry file="file://$PROJECT_DIR$/src/core/obj/Hole.java" />
+    <entry file="file://$PROJECT_DIR$/src/core/obj/Food.java" />
+    <entry file="file://$PROJECT_DIR$/src/core/obj/Blank.java" />
+    <entry file="file://$PROJECT_DIR$/src/core/obj/SnakeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/core/obj/Point.java" />
+    <entry file="file://$PROJECT_DIR$/src/network/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/test/GameUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/StrData.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/AbstractButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/GameSocketIO.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/component/GameButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/component/GameOpenMusicButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/component/GameComposePanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/core/event/GameEvents.java" />
+    <entry file="file://$PROJECT_DIR$/src/core/event/GameEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/component/GameTextField.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/event/GameOverEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/event/GameMapEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/gameui/IData.java" />
+    <entry file="file://$PROJECT_DIR$/ranking" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/obj/Obj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/server/GameServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/client/GameUIPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/obj/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/client/GameChatPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/client/GameEndPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/client/GameFuncPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/client/GameShowPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="102" column="87" selection-start-line="102" selection-start-column="87" selection-end-line="102" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/client/GameHelpPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/BattleGround.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/exception/NoMoreHoleException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/exception/WrongPlaceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/exception/NoMoreSpaceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/client/GameClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3696">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+          <folding>
+            <element signature="e#8514#8856#0" expanded="true" />
+            <element signature="e#8855#8856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/GameCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="method#getBestScores#0;class#GameCore#0" />
+            <element signature="docComment;field#foodFreshCnt#0;class#GameCore#0" />
+            <element signature="method#start#0;class#GameCore#0" />
+            <element signature="method#actOnePeriod#0;class#GameCore#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/Snake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5588">
+          <caret line="264" column="58" selection-start-line="264" selection-start-column="58" selection-end-line="264" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardNBsmall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardURDL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/keyboard/GameKeyBoardWDSA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/GameUIConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;field#SPEED_TIME#0;class#GameUIConstants#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/GameCoreConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <element signature="method#toDir#0;class#GameCoreConstants#0" />
+            <element signature="docComment;field#FOODNUM#0;class#GameCoreConstants#0" />
+            <element signature="method#getRanInt#0;class#GameCoreConstants#0" />
+            <element signature="docComment;field#VALVE_WAIT#0;class#GameCoreConstants#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameui/component/GameMusicButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="33" column="66" lean-forward="true" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>GameClient:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GluttonousSnake</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

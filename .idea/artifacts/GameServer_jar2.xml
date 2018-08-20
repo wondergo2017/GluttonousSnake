@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="GameServer:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameServer_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="GameServer.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/GameServer/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="GluttonousSnake" />
+      </element>
+    </root>
+  </artifact>
+</component>
